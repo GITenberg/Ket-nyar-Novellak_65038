@@ -1,5 +1,8 @@
 _repo: Ket-nyar-Novellak_65038
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kaffka, Margit
@@ -14,6 +17,8 @@ creator:
     - https://en.wikipedia.org/wiki/Margit_Kaffka
     - https://hu.wikipedia.org/wiki/Kaffka_Margit
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65038#Ket-nyar-Novellak
 gutenberg_issued: '2021-04-09'
 gutenberg_type: Text
 identifiers:
